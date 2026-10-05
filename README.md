@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RouyouteDev/RouyouteDev/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://github.com/RouyouteDev/RouyouteDev/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
