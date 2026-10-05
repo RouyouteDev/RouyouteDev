@@ -38,13 +38,16 @@
 
 ---
 
+
+### Me Contacter 
+Email : grenier.wyatt@gmail.com
+
+
+--- 
+
 ### 📊 Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RouyouteDev&show_icons=true&locale=fr" alt="Statistiques GitHub" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouyouteDev&theme=default" alt="Streak GitHub" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/RouyouteDev/RouyouteDev/blob/main/github-metrics.svg" alt="Metrics" />
 </p>
