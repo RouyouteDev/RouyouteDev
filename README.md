@@ -39,6 +39,14 @@
 
 ---
 
+### 📌 Mes contributions / Projets de groupe
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| **[Casino](https://github.com/Alex-Magnier/Casino)** | Casino sous forme de site web. Je me suis chargé de toute la partie Backend | `Python` `HTML` `CSS` |
+
+---
+
 
 ### Me Contacter 
 Email : grenier.wyatt@gmail.com
