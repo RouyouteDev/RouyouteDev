@@ -20,6 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Environnement & Outils :**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -37,7 +38,7 @@
 | :--- | :--- | :--- |
 | **[Anime_sama-DiscordRPC](https://github.com/RouyouteDev/Anime_sama-DiscordRPC)** | Application Python pour afficher un statut Discord Rich Presence personnalisé lors du visionnage. | `Python` |
 | **[Neko-Anime](https://github.com/RouyouteDev/Neko-Anime)** | Projet autour du catalogage d'animations VOSTFR. | `Python` |
-| **[LA_MANU-EXERCICES](https://github.com/RouyouteDev/LA_MANU-EXERCICES)** | Travaux pratiques et exercices réalisés durant mon cursus à La Manu. | `HTML` `CSS` `PYTHON` `PSEUDO CODE` |
+| **[LA_MANU-EXERCICES](https://github.com/RouyouteDev/LA_MANU-EXERCICES)** | Travaux pratiques et exercices réalisés durant mon cursus à La Manu. | `HTML` `CSS` `JAVASCRIPT` `PYTHON` `PSEUDO CODE` |
 
 ---
 
