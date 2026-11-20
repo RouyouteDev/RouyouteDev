@@ -1,4 +1,5 @@
 <img src="https://media.discordapp.net/attachments/1536814066297737257/1573287676398800917/image.png?ex=6b0175d4&is=6b002454&hm=e5cfcadb80994127460df838d65c7f0146cddac2c057e1bc46ca72600ba1f10e&format=webp&quality=lossless&width=1536&height=384">
+
 # Hellow , moi c'est Wyatt 👋
 
 🎓 **Étudiant en Bachelor Chef de projet en Développement et Data (1ère année) à [La Manu](https://lamanu.fr/) (Campus d'Amiens)**  
