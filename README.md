@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Wyatt 👋
+# Hellow , moi c'est Wyatt 👋
 
 🎓 **Étudiant en Bachelor Numérique (1ère année) à [La Manu](https://lamanu.fr/) (Campus d'Amiens)**  
 💻 Passionné par le développement informatique, l'automatisation en Python et les technologies web.
