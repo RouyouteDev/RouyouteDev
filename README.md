@@ -56,9 +56,3 @@ Email : grenier.wyatt@gmail.com
 Portfolio : [ICI](https://rouyoute-portfolio.web.app/)
 
 --- 
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RouyouteDev&theme=default" alt="Streak GitHub" height="150"/>
-</p>
